@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Experienced C#, ASP.NET, Azure, Blazor Developer**
 
-- 📫 How to reach me **zacharyf496@gmail.com**
 
 ### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zachf496) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zachf496) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/zachf496) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zachf496) 
